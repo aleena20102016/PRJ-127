@@ -1,0 +1,32 @@
+body
+{
+    background-color: #a9e84a;
+}
+
+#Update_score
+{
+    font-size:large;
+    margin-left: 10px;
+}
+
+#Update_timer
+{
+    font-size: large;
+    float: right;
+    margin-right: 50px;
+}
+
+#to_be_drawn
+{
+    color: red;
+}
+
+#show_sketch
+{
+    float: right;
+}
+
+h1
+{
+    background-color: blanchedalmond;
+}
